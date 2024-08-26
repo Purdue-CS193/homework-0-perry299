@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# Amelia Perry's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My favorite things about CS193 include:
+- We only meet once a week
+- There is a PSO for additional help
+- We cover a number of different topics that will make CS180 and future classes easier
+- It is a smaller class and therefore easier to get direct support
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
